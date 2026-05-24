@@ -1,1 +1,1 @@
-# ai-attendance-project-landing
+# Biometric AI Attendance System landing
